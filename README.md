@@ -19,7 +19,7 @@
 
 # 👩‍💻 About Me
 
-🎓 Final Year **B.Tech Computer Science & Engineering** Student
+🎓 B.Tech Graduate in Computer Science & Engineering
 
 💼 Full Stack Development Intern at **Platominds Pvt. Ltd.**
 
