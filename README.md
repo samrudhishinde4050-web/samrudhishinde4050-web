@@ -121,7 +121,6 @@
 
 ✔ Worked in Agile Development Environment
 
----
 
 
 
@@ -140,13 +139,7 @@
 ✔ System Design
 ```
 
----
 
-
-
-
-
----
 
 
 
@@ -182,7 +175,7 @@
 
 </p>
 
----
+
 
 
 </div>
