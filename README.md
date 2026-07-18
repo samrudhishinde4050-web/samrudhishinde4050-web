@@ -123,41 +123,8 @@
 
 ---
 
-# 🚀 Featured Project
 
-## 🏥 Government Healthcare Management System
 
-### Technologies
-
-- Java
-- Spring Boot
-- React.js
-- MySQL
-- REST APIs
-
-### Features
-
-✅ Role-Based Authentication
-
-✅ Admin Module
-
-✅ Doctor Module
-
-✅ Receptionist Module
-
-✅ Patient Module
-
-✅ Appointment Management
-
-✅ Prescription Management
-
-✅ Medical History
-
-✅ CRUD Operations
-
-✅ Secure REST APIs
-
----
 
 # 📚 Currently Learning
 
