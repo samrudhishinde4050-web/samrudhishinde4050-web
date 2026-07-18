@@ -148,13 +148,7 @@
 
 ---
 
-# 🔥 GitHub Streak
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=samrudhishinde4050-web&theme=tokyonight"/>
-
-</p>
 
 ---
 
@@ -190,17 +184,6 @@
 
 ---
 
-# 💡 Quote
-
-> **"Code with passion, learn continuously, and build solutions that make a difference."**
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my GitHub Profile!
-
-If you like my work, don't forget to ⭐ my repositories.
 
 </div>
 
